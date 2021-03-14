@@ -1,5 +1,9 @@
-# gerenciamento-de-usuarios
-Projeto em que desenvolve o JavaScript de uma página de gerenciamento de usuários, 
-esse projeto foi desenvolvido junto a um curso online.
-obs: o html foi fornecido como material do curso, 
-eu escrevi somente o JavaScript pois ele é o foco do curso
+# Gerenciamento de Usuários
+
+<p>
+  Projeto desenvolvido junto ao curso JavaScript Completo da Hcode Treinamentos na Udemy.com, onde desenvolvemos uma página de gerenciamentos de usuários com manipulação dos dados e do DOM.
+  Inicialmente esse prejeto armazenava os arquivos em um servidor Node.js e todas as rotas ainda estão definidas no projeto, porém, ao final do curso o armazenamento do arquivos foi migrado para o firebase storage
+</p>
+
+- Este projeto visa colocar em prática os conhecimentos em JavaScript obtivos no curso.
+- Dessa forma, o html e css vieram prontos junto ao material do curso, escrevi somente o javascript
